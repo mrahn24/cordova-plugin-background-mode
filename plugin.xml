@@ -89,6 +89,8 @@
         <source-file
             src="src/android/ForegroundService.java"
             target-dir="src/de/appplant/cordova/plugin/background" />
+        
+        <resource-file src="icon.png" target="res/drawable/icon.png" />
     </platform>
 
     <!-- browser -->
